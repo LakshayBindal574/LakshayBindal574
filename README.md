@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lakshay Bindal</h1>
 
 <h3 align="center">
-🚀 Python Developer | Django Developer | Java Developer | Future Google SDE-1
+ Java Developer 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Python+Developer;Django+Developer;Java+Developer;Spring+Boot+Developer;System+Design+Learner;Google+SDE-1+Preparation;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Developer;Spring+Boot+Developer;System+Design+Preparation;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -16,9 +16,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 # 💫 About Me
 
 - 🔭 Currently working on **Python & Django Projects**
-- 🌱 Learning **Java, Spring Boot, System Design, AWS**
+- 🌱 Learning **Java, Spring Boot, System Design**
 - 💻 Solving **DSA Problems Daily**
-- 🚀 Preparing for **Google SDE-1**
 - 🏆 Passionate about Backend Development
 - 📫 Reach me at **YOUR_EMAIL**
 
@@ -30,22 +29,17 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/LakshayBindal574">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/lakshay-bindal-065905339/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:lakshaybindal83@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.icons8.com/color/48/domain.png"/>
-</a>
-
 </p>
 
 ---
@@ -54,7 +48,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,java,spring,mysql,mongodb,redis,html,css,js,bootstrap,react,nodejs,git,github,docker,kubernetes,aws,linux,postman,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,django,java,spring,mysql,postgresql,git,github,linux,postman,vscode&perline=7"/>
 
 </p>
 
