@@ -4,18 +4,14 @@
  Software Developer 
 </h3>
 
-<p align="center">
-## 💫 About Me
+<div align="center">
 
 <table>
 <tr>
-<td width="60%" valign="top">
 
-- 🔭 Currently working on **Python & Django Projects**
-- 🌱 Learning **Java, Spring Boot, System Design**
-- 💻 Solving **DSA Problems Daily**
-- 🏆 Passionate about **Backend Development**
-- 📫 Reach me at **lakshaybindal83@gmail.com**
+<td width="60%" align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Developer;System+Design+Learner;Always+Learning+New+Things" />
 
 </td>
 
@@ -24,8 +20,11 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
