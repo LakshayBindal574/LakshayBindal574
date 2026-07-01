@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Developer;Spring+Boot+Developer;System+Design+Preparation;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Software Developer;System+Design+Preparation;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 Learning **Java, Spring Boot, System Design**
 - 💻 Solving **DSA Problems Daily**
 - 🏆 Passionate about Backend Development
-- 📫 Reach me at **YOUR_EMAIL**
+- 📫 Reach me at **lakshaybindal83@gmail.com**
 
 <br>
 
@@ -48,7 +48,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,java,spring,mysql,postgresql,git,github,linux,postman,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,django,java,spring,mysql,postgresql,git,github,postman,vscode&perline=7"/>
 
 </p>
 
@@ -58,7 +58,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBindal574&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -70,7 +70,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshayBindal574&theme=tokyonight"/>
 
 </p>
 
@@ -127,7 +127,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ✔ Java
 ✔ Spring Boot
 ✔ System Design
-✔ 
 ✔ DSA
 ```
 
@@ -136,19 +135,15 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/u/LakshayBindal_22/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/profile/_2415500266">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+<a href="https://www.geeksforgeeks.org/profile/lakshaybi76lb">
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
@@ -163,22 +158,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
-
----
-
-# 👀 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> **"Work so quietly that success makes the noise."**
 
 ---
 
