@@ -2,16 +2,8 @@
 <h3 align="center">Software Developer</h3>
 
 <div align="center">
-<table>
-<tr>
-<td width="60%" align="center">
+<p width="60%" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Developer;System+Design+Learner;Always+Learning+New+Things" />
-</td>
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</td>
-</tr>
-</table>
 </div>
 
 ---
