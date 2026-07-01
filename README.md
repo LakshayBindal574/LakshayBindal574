@@ -85,6 +85,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
+<!--
 # 🏆 GitHub Trophy
 
 <p align="center">
@@ -92,6 +93,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://github-profile-trophy.vercel.app/?username=LakshayBindal574&theme=radical&row=1&column=7"/>
 
 </p>
+-->
 
 ---
 
@@ -150,12 +152,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/LakshayBindal574/LakshayBindal574/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/LakshayBindal574/LakshayBindal574/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
