@@ -16,6 +16,29 @@
 
 ---
 
+## 🙋‍♂️ About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 🎓 Software Developer passionate about building clean, scalable applications
+- 🐍 Backend development with **Python, Django & Django REST Framework**
+- ☕ Also working with **Java & Spring Boot**
+- 🧠 Currently strengthening my **DSA & System Design** fundamentals
+- 🌱 Always learning new tools, frameworks, and best practices
+- 💬 Ask me about Python, Django, Java, or Databases
+- 📫 Reach me at **lakshaybindal83@gmail.com**
+
+</td>
+<td width="40%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
