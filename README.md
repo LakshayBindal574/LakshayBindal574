@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Lakshay Bindal</h1>
 
 <h3 align="center">
- Java Developer 
+ Software Developer 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Software+Developer;System+Design+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Development;System+Design+Learner;Always+Learning+New+Things" />
 </p>
 
 
