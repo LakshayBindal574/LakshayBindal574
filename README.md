@@ -5,30 +5,31 @@
 </h3>
 
 <p align="center">
- 
-<div align="center">
+## 💫 About Me
 
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Python+Development;Java+Development;System+Design+Learner;Always+Learning+New+Things" />
-  </div>
-
-  <br>
-
-  <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
-  </div>
-
-</div>
-
-# 💫 About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
 - 🔭 Currently working on **Python & Django Projects**
 - 🌱 Learning **Java, Spring Boot, System Design**
 - 💻 Solving **DSA Problems Daily**
-- 🏆 Passionate about Backend Development
+- 🏆 Passionate about **Backend Development**
 - 📫 Reach me at **lakshaybindal83@gmail.com**
 
-<br>
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
 
 ---
 
