@@ -5,14 +5,20 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Development;System+Design+Learner;Always+Learning+New+Things" />
-</p>
+ 
+<div align="center">
 
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Python+Development;Java+Development;System+Design+Learner;Always+Learning+New+Things" />
+  </div>
 
----
+  <br>
 
-<img align="right" alt="Coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
+  </div>
+
+</div>
 
 # 💫 About Me
 
