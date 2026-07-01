@@ -2,17 +2,23 @@
 <h3 align="center">Software Developer</h3>
 
 <div align="center">
-<p width="60%" align="center">
+<table>
+<tr>
+<td width="60%" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Developer;System+Design+Learner;Always+Learning+New+Things" />
+</td>
+<td width="40%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 Software Developer passionate about building clean, scalable applications
 - 🐍 Backend development with **Python, Django & Django REST Framework**
@@ -22,12 +28,7 @@
 - 💬 Ask me about Python, Django, Java, or Databases
 - 📫 Reach me at **lakshaybindal83@gmail.com**
 
-</td>
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
