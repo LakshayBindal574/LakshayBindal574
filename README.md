@@ -26,14 +26,14 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/LakshayBindal574">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/LakshayBindal574" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/lakshay-bindal-065905339/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/lakshay-bindal-065905339/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:lakshaybindal83@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
 
@@ -42,25 +42,15 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,spring,mysql,postgresql,git,github,postman,vscode&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,mysql,postgresql,git,github,postman,vscode&perline=7" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🚀 Languages
+## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBindal574&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshayBindal574&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshayBindal574&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -68,32 +58,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshayBindal574&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LakshayBindal574&theme=radical&row=1&column=7" />
-</p>
-
----
-
-## 📊 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshayBindal574&theme=tokyonight" alt="Profile Summary" />
-</p>
-
----
-
-## ⚡ Coding Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshayBindal574&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshayBindal574&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshayBindal574&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -116,27 +81,3 @@
 ✔ Spring Boot
 ✔ System Design
 ✔ DSA
-```
-
----
-
-## 💻 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/LakshayBindal_22/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/_2415500266">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/lakshaybi76lb">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐<br/>
-Happy Coding 🚀
-</h3>
