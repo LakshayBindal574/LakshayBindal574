@@ -42,7 +42,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,spring,mysql,postgresql,git,github,postman,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,springboot,mysql,postgresql,git,github,postman,vscode&perline=7" alt="Tech Stack" />
 </p>
 
 ---
