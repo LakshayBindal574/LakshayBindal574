@@ -74,10 +74,6 @@
 ## 📚 Current Learning
 
 ```text
-✔ Python Advanced
-✔ Django
-✔ Django REST Framework
-✔ Java
 ✔ Spring Boot
 ✔ System Design
 ✔ DSA
