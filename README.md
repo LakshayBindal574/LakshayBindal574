@@ -65,24 +65,6 @@
 
 ---
 
-## 🏆 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/LakshayBindal_22/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/profile/lakshaybi76lb">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/_2415500266">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
