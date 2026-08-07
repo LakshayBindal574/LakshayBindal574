@@ -53,6 +53,9 @@
   <a href="https://www.hackerrank.com/profile/_2415500266" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-_2415500266-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+  <a href="https://codeforces.com/profile/LakshayBindal" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-LakshayBindal-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
 
 ---
