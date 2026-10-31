@@ -1,0 +1,29 @@
+name: Update Codolio Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch Codolio Stats
+        run: |
+          curl -fL "https://dsastats.vercel.app/api/codolio/LakshayBindal_22" -o dsa-stats.svg
+
+      - name: Commit Updated Stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dsa-stats.svg
+          git diff --cached --quiet || git commit -m "Update Codolio stats"
+          git push
