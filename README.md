@@ -56,6 +56,9 @@
   <a href="https://codeforces.com/profile/LakshayBindal" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-LakshayBindal-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  <a href="https://www.codechef.com/users/laksh_bindal22" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-laksh__bindal22-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+</a>
 </p>
 
 ---
@@ -65,7 +68,15 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/LakshayBindal_22?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" />
 </p>
+<h2 align="center">📊 My Coding Statistics</h2>
 
+<p align="center">
+  <a href="https://codolio.com/profile/LakshayBindal_22">
+    <img src="https://dsastats.vercel.app/api/codolio/LakshayBindal_22"
+         alt="Codolio DSA Statistics"
+         width="800"/>
+  </a>
+</p>
 ---
 
 <h2 align="center">💻 Tech Stack & Tools</h2>
