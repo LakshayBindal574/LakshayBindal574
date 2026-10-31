@@ -71,7 +71,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,django,java,spring,mysql,git,github,postman,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,django,djangorestframework,mysql,postgresql,mongodb,linux,azure,git,github,postman,vscode&perline=7" alt="Tech Stack" />
 </p>
 
 ---
