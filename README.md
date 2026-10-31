@@ -71,7 +71,7 @@
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,django,mysql,postgresql,mongodb,redis,linux,docker,azure,git,github,postman,vscode,pycharm&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,fastapi,django,mysql,postgresql,mongodb,redis,linux,docker,azure,git,github,postman,vscode,pycharm&perline=7" alt="Tech Stack" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
@@ -109,7 +109,6 @@
 ## 📚 Current Learning
 
 ```text
-✔ Spring Boot
 ✔ System Design
 ✔ DSA
 ```
