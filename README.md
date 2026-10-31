@@ -68,14 +68,8 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/LakshayBindal_22?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" />
 </p>
-<h2 align="center">📊 My Coding Statistics</h2>
-
 <p align="center">
-  <a href="https://codolio.com/profile/LakshayBindal_22">
-    <img src="https://dsastats.vercel.app/api/codolio/LakshayBindal_22"
-         alt="Codolio DSA Statistics"
-         width="800"/>
-  </a>
+  <img src="./dsa-stats.svg" alt="Codolio DSA Stats" width="800"/>
 </p>
 ---
 
